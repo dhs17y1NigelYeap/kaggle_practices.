@@ -1,6 +1,6 @@
 # kaggle_practices.
 
-Hey there! Thank you for visitng
+Hey there! Thank you for visiting.
 
 This is a compilation of all my notebooks that I've created under kaggle.
 
